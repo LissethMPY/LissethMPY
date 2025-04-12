@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello, I'm Lisseth, 👋
 - 🌱 What I'm learning: I have a basic foundation in databases and operating systems, but my goal is to dive deeper into microservices and AWS in the upcoming months.
 - 💡 I'm looking to collaborate on: Projects where I can learn, apply my knowledge, and improve in areas such as software development, databases, and data analysis.
 - 💬 Ask me about: Topics related to databases, operating systems.
